@@ -128,7 +128,6 @@ SFX = {
 }
 MUSIC_LOADED = load_music()
 
-# Globals filled after display is ready
 JET_CHOICES = []
 selected_jet_index = 0
 PLAYER_IMG = None
